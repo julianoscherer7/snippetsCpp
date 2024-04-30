@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+int main () {
+string nome;
+cout << "Olá mundo e digite seu nome: " << endl;
+cin >> nome
+cout << "Seu nome é: " << nome << endl; 
+
